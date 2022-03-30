@@ -61,6 +61,32 @@ cite {
   font-style: normal;
 }
 
+.check{
+  text-align: center;
+  color: #fff;
+}
+
+.check-btn{
+  padding: 0px;
+  margin-top: 20px;
+  margin-right: 20px; 
+  font-weight: bold;
+}
+
+.get-started{
+  background-color: #36c0ff; 
+  background-image: url(https://www.buxfer.com/media/UIFrontPage/pattern-letsgetstarted.png); 
+  background-repeat: repeat-x;
+  background-position: 0 0; 
+  padding: 30px;
+}
+
+@media (max-width: 768px) {
+  .get-started {
+    padding: 50px 0;
+  }
+}
+
 .lora {
   font-family: "Lora", serif;
   font-style: italic;
