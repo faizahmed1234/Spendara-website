@@ -76,7 +76,7 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
                                 }
                                 if($login_success){
                                     echo '<div class="alert alert-info" role="alert" style="text-align:center">
-                                    You have successfully loged in
+                                    You have successfully logged in
                                   </div>';
                                 } 
                             ?>
